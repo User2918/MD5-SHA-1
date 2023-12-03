@@ -1,2 +1,7 @@
-# MD5-SHA-1-hashes-
-Simple Python program for generating MD5 and SHA-1 hashes for passwords
+# Getting Started
+**Simple Python script to generate a value on the desired hash type (MD5 or SHA).**
+
+
+## Contact
+
+Discord -> [User2918#0](https://discordapp.com/users/714165559809540167)
